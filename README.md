@@ -4,6 +4,18 @@ npm install
 node examples/node/test1.js
 ```
 
+## Testing from web page
+
+```shell
+npm start
+```
+
+- Open web url
+http://localhost:7355/examples/file-input/demo.html
+
+and choose file ..
+
+
 > Change examples/node/test1.png to test another file
 
 -- Rest of info below is from NPM module --
