@@ -1,8 +1,10 @@
 # Getting started #
+## Testing from script
 ```shell
 npm install
 node examples/node/test1.js
 ```
+> Change examples/node/test1.png to test another file
 
 ## Testing from web page
 
@@ -16,7 +18,6 @@ http://localhost:7355/examples/file-input/demo.html
 and choose file ..
 
 
-> Change examples/node/test1.png to test another file
 
 -- Rest of info below is from NPM module --
 
